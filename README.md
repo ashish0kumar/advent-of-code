@@ -1,2 +1,6 @@
-# 🎄 Advent of Code 2024
-This repo houses my C++ solutions for the [Advent of Code 2024](https://adventofcode.com/2024).
+# Advent of Code
+
+My Advent of Code solutions
+
+- [2024](2024/) - C++
+- [2025](2025/) - Go
