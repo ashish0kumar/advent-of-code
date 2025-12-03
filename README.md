@@ -1,6 +1,6 @@
-# Advent of Code
+# advent of code
 
-My Advent of Code solutions
+my advent of code solutions
 
-- [2024](2024/) - C++
-- [2025](2025/) - Go
+- [`2024`](2024/) - `C++`
+- [`2025`](2025/) - `Go`
